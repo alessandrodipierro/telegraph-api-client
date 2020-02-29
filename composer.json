@@ -1,5 +1,5 @@
 {
-    "name": "ssitdikov/telegraph-api-client",
+    "name": "alessandrodipierro/telegraph-api-client",
     "description": "Simple Telegra.ph API PHP Client",
     "keywords": ["telegram", "telegraph", "api", "online", "php"],
     "minimum-stability": "stable",
@@ -14,8 +14,8 @@
     },
     "authors": [
         {
-            "name": "Salavat Sitdikov",
-            "email": "sitsalavat@gmail.com"
+            "name": "Alessandro Di Pierro",
+            "email": "dipierroale@outlook.it"
         }
     ],
     "require": {
